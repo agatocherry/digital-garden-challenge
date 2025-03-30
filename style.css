@@ -1,0 +1,38 @@
+body {
+    /* background-color: rgb(56, 56, 56); */
+    background-color: rgb(252, 215, 215);
+    cursor: url('assets/cherry-cursor.png') 16 16, auto;
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 45px;
+    font-family: "Urbanist", sans-serif;
+}
+
+pre {
+    /* border: 3px solid rgb(179, 160, 160); */
+    /* border-radius: 5px; */
+    letter-spacing: 8px;
+    line-height: 2;
+    margin-right: 10px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: #f83b64;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Urbanist", sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
