@@ -1,10 +1,10 @@
 body {
-    background-color: #fff1f4;
-    cursor: url('../assets/cherry.png') 16 16, auto;
+    background-color: #ffe5e5;
+    cursor: url('../assets/rose.png') 16 16, auto;
 }
 
 h1 {
-    color: #ce6f8d;
+    color: #db3c39;
     text-align: center;
     font-size: 45px;
     font-family: "Urbanist", sans-serif;
@@ -14,7 +14,7 @@ h1 {
 h3 {
     text-align: center;
     font-family: "monospace", monospace;
-    color: #90344d;
+    color: #f97e76;
 }
 
 header {
@@ -22,7 +22,7 @@ header {
 }
 
 button {
-    background-color: #ffced5;
+    background-color: #fbafaf;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -48,7 +48,7 @@ pre {
     align-content: center;
     text-align: center;
     /* font-size: 20px; */
-    color: #90344d;
+    color: #db3c39;
 }
 
 footer {
