@@ -1,7 +1,6 @@
 body {
     background-color: rgb(252, 215, 215);
     cursor: url('assets/cherry-cursor.png') 16 16, auto;
-
 }
 
 h1 {
@@ -9,6 +8,13 @@ h1 {
     text-align: center;
     font-size: 45px;
     font-family: "Urbanist", sans-serif;
+    margin-bottom: 0px;
+}
+
+h3 {
+    text-align: center;
+    font-family: "monospace", monospace;
+    color: #f83b64;
 }
 
 header {
